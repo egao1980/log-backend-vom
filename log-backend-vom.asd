@@ -4,7 +4,7 @@
   :author "egao1980"
   :license "MIT"
   :depends-on ("log-protocol" "vom")
-  :properties (:cl-repo (:ci (:sources (("vom" :ql) ("rove" :ql)))))
+  :properties (:cl-repo (:ci (:sources (("vom" :ql)))))
   :serial t
   :pathname "src"
   :components ((:file "package")
